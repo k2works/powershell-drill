@@ -21,6 +21,13 @@
 
 ### 構築
 
+#### Hello, World, Pester-Style
+
+```powershell
+New-Fixture -Name HelloWorld
+invoke-pester
+```
+
 **[⬆ back to top](#構成)**
 
 ### 配置
@@ -36,3 +43,5 @@
 **[⬆ back to top](#構成)**
 
 ## 参照
+
+- [Practical PowerShell Unit-Testing: Getting Started](https://www.red-gate.com/simple-talk/sysadmin/powershell/practical-powershell-unit-testing-getting-started/)
