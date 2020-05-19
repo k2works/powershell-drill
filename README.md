@@ -40,6 +40,12 @@ invoke-pester
 
 ### 開発
 
+#### 基本的なアルゴリズム
+
+```powershell
+New-Fixture -Name Chap01
+```
+
 **[⬆ back to top](#構成)**
 
 ## 参照
